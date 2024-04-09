@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "petrol-indicator",
+  "private_key_id": "a9f2809fed52fe89483f645340d2ffe82a473f9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDeRPa4fkTS1su8\nkdIiqIFB0FYRwkr3c4ICgLTjwkGJdvbljcYK+As9IZqXqYoV+3UDxKVHGy+onFHG\n5mw3XuJCE3ag8QC2xxJlYtWEu9WUyaz3uJMacwsf9PncYDwdkIkTnzQUr97zNlJV\nWrK5uOwxCFEhXpshsbPBS+cnFupbqT7ugJTDbfP/QWLsWg/l9opduWml4Hm4/Dt8\n5CiSPs/ockTwdarn5jNjg463iW/g/7vx4Sx8KrtkffLhdqZKw6skERz0gh/WRrvq\n9zICetK9HFSC32L/lcFJyFSc7VNhCo9xcpQ4GEiLu85hR/FKe+Ljt4M5t9vGo5b9\nGHVid/sTAgMBAAECggEACWcoetiYp8S/fLw8hAvV4AdkxL6P9lT0II/6VxJOPHcE\nbeSoBqnEq/Lie90HwvNO2Xh1t4LeascmLIBt/o+sibgSEi/v5EuaqyBZwRJDMFax\n0w8DZiCMzW7LLTgDAwssyWA4T1G7YFWheQvruLCqiU59RCig7nV6kchYwI4XHwZ/\nOzDMTrairX5ZSKaDdT6u5McN2TwoaSt4cto80B1v2G4UxjpZD6G46wO7KBkxK1zR\nGNXNwVwhZkgxXH9TaCRdMT7/NrDefiis19ewn25SFHpsRz1LH5Y0gfFoHKgARdz1\n6lq9SW5HKFfgcIFyc7YY7Cd9H0v1rPN75qpBuzysuQKBgQD0fiqUZElpUg7TJy5n\nTuy+VWUe/rTPcLpjb0unYjItcAtfXuvA4aaVUWPHzgKvcAgOC/Gx/cW3ePoMwFf2\nCj2UMjASnJUnqc7Lwe4uXVRUqztpETbxle66ejr5E0SAJMVAe5QS/iPeZdvWm05X\nwP9eUA4aQozEiBX7sUasIIXhmQKBgQDouwhY92i90YdwPNshzXT8U91ORgh4zm56\nKhBjDcUUDiFxDw62RbP0nQduSTMp1k6SF1gWEFdfM57k0bGyAmc3/aJk/+BNcWGj\nkQB59jnhw7dkKFZG8xA776WLXJbfWArJyJxJiEueB35MClBOf/imiHOBuzBbQfRv\nj8OHp2KFiwKBgQCDxcQ5Olv+scVftMxjzbv3UZswu2LEMyOiGAgUbO5SYwMeIdC6\nomPgMn+u3q+/0ofk2jcoEXiQzFkoqjo+V4Kc7vfN8CrLt8/HLfyrbI3ZHHjmxepx\nBrgmNV63g9T1o9vUR0alfefjI876ubXdwh1gvZD8QkYQXrBKeV93wgemcQKBgQDT\n/fJnn84QAfleGoD9NHqYkgfnkdGLwXZO31wX7mYTk5+QrceX7rwyWIt5QUJSnLzr\nREpfprj/pjTZd81mOdwt22J+n7mAsYPgC2gksE4fQTkfCcM1U5j5D5166XcgsMD6\n9zqtnHJM28SGnWpzZwxnHaohhRJSPizbJlhUi/spawKBgQDsICJnIAnwXMiZIm55\nPh2vvQi3IZhpshqyBcM5MeghHZdVoY9V2/wvgHxojzPm806Zp5uUFK2A74SM66Jn\nqLgpvOzTQ1CF1cErM9+Yv0nQ419FbrTz0vD8DBbdakfSS//RtodSfppZTHFIvopE\n+qztGHGVqqRqAPGHvmiN37sWjw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6dhg6@petrol-indicator.iam.gserviceaccount.com",
+  "client_id": "106588164349878178628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6dhg6%40petrol-indicator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
