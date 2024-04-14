@@ -18,11 +18,11 @@ def set_fuel_level(vid,h):
     fuel_level_reference = db.collection("fuellevel").document(vid)
     try:
         res = vehicle_ref.get()
-        height = int(res.data["height"])
+        height = float(res.data["height"])
 
-        print(height, h)
+        actual = height - float(h)
 
-        data = {"fuellevel": height-h}
+        data = {"fuellevel": str(actual)}
         fuel_level_reference.set(data)
     except Exception as error:
         return error
